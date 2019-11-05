@@ -1,0 +1,14 @@
+h1 {
+  text-align:center;
+  font-size:20px;
+  font-weight:bold;
+}
+.redText {
+  color:#ff0000;
+}
+.greenText {
+  color:#008800;
+}
+#italic {
+  font-style: italic;
+}
